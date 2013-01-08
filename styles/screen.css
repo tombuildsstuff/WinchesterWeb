@@ -1,0 +1,7 @@
+body { font-family: arial; margin: 0, padding: 0 }
+div { left: 30%; padding-top: 10%; }
+div aside { float: left; width: 40% }
+aside h1 { display: none }
+aside img { float: right }
+div section { float: left; margin-left: 10% }
+time span { font-weight: bold }
